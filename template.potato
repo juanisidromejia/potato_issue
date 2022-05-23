@@ -1,0 +1,6 @@
+\setvar background_image img/background.png 
+
+\slide[defineclass:titlepage]titlepage
+\image[class:fullscreen] %{background_image}
+
+
